@@ -1,16 +1,28 @@
-## Hi there 👋
+# TSilvaLisbon
+![Profile Views](https://komarev.com/ghpvc/?username=tsilvalisbon)
+![GitHub followers](https://img.shields.io/github/followers/tsilvalisbon?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/tsilvalisbon?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-<!--
-**tsilvalisbon/tsilvalisbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **TSilva**, a student at [42Lisbon](https://www.42lisboa.com/) currently learning C and working through the Common Core curriculum.
 
-Here are some ideas to get you started:
+## About Me
+- 42Lisbon student
+- Learning C and core computer science concepts
+- Interested in systems programming, algorithms, and open source
+- Currently working on CommonCore42 projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C programming
+- Git & GitHub
+- Linux basics
+
+## Projects
+- [C Library](https://github.com/tsilvalisbon/ImprovedLibft)
+- [CommonCore](https://github.com/tsilvalisbon/CommonCore42)
+
+## How To Reach Me
+- GitHub: [tsilvalisbon](https://github.com/tsilvalisbon)
+- Email: tsilvalisbon@gmail.com
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsilvalisbon&layout=compact)
