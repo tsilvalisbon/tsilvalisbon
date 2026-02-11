@@ -17,5 +17,4 @@ I’m **TSilva**, a student at [42Lisbon](https://www.42lisboa.com/) currently l
 ## How To Reach Me
 Email: tsilvalisbon@gmail.com
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsilvalisbon&layout=compact)
+---
