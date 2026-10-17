@@ -1,6 +1,6 @@
 # TSilvaLisbon
 ![GitHub followers](https://img.shields.io/github/followers/tsilvalisbon?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/tsilvalisbon?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/tsilvalisbon?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
 I’m **TSilva**, a computer science student based in Lisbon, currently studying at **IPLuso** and previously studying at **42Lisboa** and building my skills in software development and web technologies.
 
@@ -26,6 +26,8 @@ I’m **TSilva**, a computer science student based in Lisbon, currently studying
 - Java
 - JavaScript
 - SQL
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsilvalisbon&theme=tokyonight) 
 
 ## How To Reach Me
 Email: tsilvalisbon@gmail.com
