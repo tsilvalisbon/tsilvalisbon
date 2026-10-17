@@ -27,6 +27,8 @@ I’m **TSilva**, a computer science student based in Lisbon, currently studying
 - JavaScript
 - SQL
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsilvalisbon&theme=tokyonight) 
+
 ## How To Reach Me
 Email: tsilvalisbon@gmail.com
 
